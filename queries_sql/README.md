@@ -5,7 +5,7 @@
 Develop a data-driven career roadmap that identifies the technical skills most valued in today's U.S. Data Scientist job market.
 
 
-![Thumbnail](../project_image/\new_thumbnail.png)
+![Thumbnail](../project_image/new_thumbnail.png)
 
 ## Project Overview
 
