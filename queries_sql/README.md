@@ -15,7 +15,7 @@ Historical job posting data provides valuable insight into the skills employers 
 The project is built on a normalized relational database consisting of four interconnected tables. The schema models job postings, companies, and technical skills, enabling efficient analysis of employer demand, salary trends, and skill relationships.
 
 
-![Data Warehouse Image](../project_images\data_warehouse_overview.png)
+![Data Warehouse Image](../project_images/data_warehouse_overview.png)
 
 ## Tools & Methodology
 
